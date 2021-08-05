@@ -1,4 +1,4 @@
-# 4.3 & 4.3 
+# 4.2 & 4.3 
 ## DRAFT
 In this project, I have a front end that takes values and adds it to a table 
 You then have the option to remove the vaues from the table. Then user should be able to search the record. 
