@@ -16,6 +16,9 @@ HTML
 
 1. index.html includes a table with emplid, name with delete and Edit option 
 
+![image](https://user-images.githubusercontent.com/77127829/128425784-8c186bd7-de0f-43a2-bfad-77138d91d4a4.png)
+
+
 
 2. index.js should connect to searver side and add data to mysql table and query for any requests made by front end. 
 
