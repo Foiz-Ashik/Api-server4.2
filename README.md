@@ -11,6 +11,7 @@ Apache
 MySQL
 Javascript
 HTML
+Nodemon
 
 ### Client side: 
 
@@ -29,3 +30,4 @@ app.js includes all the required modules and connects to db
 dbservice.js connects to mysql server and queries for thr required data 
 
 .env file includes DotEnv that will hold sensetive data like passwords, ports and username so it is not visival on the front end. 
+
